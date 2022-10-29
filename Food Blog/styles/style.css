@@ -26,4 +26,7 @@ h5 {
 .detailText {
     font-size: smaller;
 }
-
+#textFooter {
+    text-align: left;
+    font-size: small;
+}

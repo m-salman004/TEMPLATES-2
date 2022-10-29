@@ -22,3 +22,6 @@ li {
 li:hover {
     background-color:darkgrey;
 }
+#not-allowed {
+    cursor: not-allowed;
+}

@@ -5,7 +5,7 @@ body {
     border-radius: 0%;
     width: 100%;
 }
-h4, p {
+.card h4, p {
     text-align: justify;
     text-align: center;
 }
@@ -26,3 +26,4 @@ h5 {
 .detailText {
     font-size: smaller;
 }
+

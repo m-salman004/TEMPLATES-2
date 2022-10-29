@@ -6,6 +6,7 @@ p span {
 }
 .card {
     box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px !important;
+    border-radius: 0%;
 }
 ul {
     list-style-type: none;

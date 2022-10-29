@@ -23,3 +23,6 @@ h5 {
 #italicText {
     font-style: italic;
 }
+.detailText {
+    font-size: smaller;
+}

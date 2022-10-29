@@ -20,3 +20,6 @@ p span:hover {
 h5 {
     font-family: "karma", sans-serif !important;
 }
+#italicText {
+    font-style: italic;
+}

@@ -1,4 +1,6 @@
 #heroSection {
     background-image: url("../assets/Images/forestbridge.jpg");
     min-height: 100vh;
+    background-position: center;
+    background-size: cover;
 }

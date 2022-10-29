@@ -1,3 +1,6 @@
+body {
+    font-family: "Raleway"
+}
 #heroSection {
     background-image: url("../assets/Images/forestbridge.jpg");
     min-height: 100vh;

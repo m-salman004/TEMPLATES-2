@@ -12,3 +12,6 @@ ul {
     padding: 0%;
     margin: 0%;
 }
+li {
+    padding-top: 16px !important;
+}

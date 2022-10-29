@@ -19,3 +19,6 @@ li {
     padding-bottom: 16px !important;
     border-bottom: 1px solid #ccc;
 }
+li:hover {
+    background-color:darkgrey;
+}

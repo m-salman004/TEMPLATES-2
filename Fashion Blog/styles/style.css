@@ -7,3 +7,7 @@ a:hover {
 .btn {
     border-radius: 0%;
 }
+#backgroundImage {
+    background-image: url(/Images/jane.jpg);
+    min-height: 100vh;
+}

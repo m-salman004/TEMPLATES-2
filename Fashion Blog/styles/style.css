@@ -1,4 +1,7 @@
 a:hover {
     background-color: darkgray !important;
 }
+.smallText {
+    font-size: smaller;
+}
 

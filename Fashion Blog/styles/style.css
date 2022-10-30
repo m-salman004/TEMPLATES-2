@@ -51,3 +51,7 @@ li {
 i:hover {
     opacity: 0.16;
 }
+input[type=email] {
+    border-radius: 0%;
+    
+}

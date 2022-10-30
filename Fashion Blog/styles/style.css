@@ -58,6 +58,7 @@ input[type=email] {
 .btn-danger {
     width: 95%;
 }
-.btn-danger {
-    
+.btn-danger:hover {
+    background-color: #ccc;
+    color: black;
 }

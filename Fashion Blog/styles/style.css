@@ -6,6 +6,7 @@ a:hover {
 }
 .btn {
     border-radius: 0%;
+    width: 200px;
 }
 #imageSection {
     background-image: url(/Images/jane.jpg);

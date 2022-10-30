@@ -36,7 +36,7 @@ h1 {
 ul {
     list-style-type: none;
     padding: 0%;
-    margin-left: 16px;
+    margin: 0%;
 }
 .boderBottom {
     border-bottom: 1px solid #ccc;

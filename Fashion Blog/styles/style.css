@@ -1,3 +1,4 @@
+
 a:hover {
     background-color: darkgray !important;
 }
@@ -46,4 +47,7 @@ ul {
 li {
     padding: 8px 16px !important;
     padding-bottom: 16px !important; 
+}
+i:hover {
+    opacity: 0.16;
 }

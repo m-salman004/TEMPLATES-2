@@ -61,3 +61,7 @@ input[type=email] {
     background-color: #ccc;
     color: black;
 }
+.hover {
+    background-color: #000;
+    color: white;
+}

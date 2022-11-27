@@ -9,7 +9,7 @@ a:hover {
     width: 200px;
 }
 #imageSection {
-    background-image: url(/Images/jane.jpg);
+    background-image: url("../Images/jane.jpg");
     min-height: 100vh;
 }
 h2 {
